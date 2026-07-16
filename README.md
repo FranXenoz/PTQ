@@ -1,6 +1,6 @@
 # Transformer Inference Optimizer (PTQ + KV-Cache)
 
-A lightweight, from-scratch inference optimization engine for **GPT-2 Small (124M)**. This project implements core latency-reduction and memory-reduction techniques in pure PyTorch and NumPy, without wrapping libraries.
+I wrote a lightweight, from-scratch inference optimization engine for **GPT-2 Small (124M)**. This project implements core latency-reduction and memory-reduction techniques in pure PyTorch and NumPy, without wrapping libraries.
 
 ## Key Features
 
